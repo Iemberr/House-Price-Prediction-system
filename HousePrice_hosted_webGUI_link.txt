@@ -3,9 +3,7 @@ Waribo Ijeoma Iember
 23AG032727
 
 Random Forest Regressor
-git add HousePrice_hosted_webGUI_link.txt
->> git commit -m "Add render link"
->> git push
+
  Joblib 
 
 https://house-price-prediction-system-3sue.onrender.com/
